@@ -14,18 +14,18 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [Oleksii]'s Cloud Journey
+## Oleksii's Cloud Journey
 
-  [Hi Everyone my name is Oleksii, I work as a Principal Engineer and have been working with Oracle FMW since 2014, we have started to focus far more othe Cloud adoption journey.]
+  Hi Everyone my name is Oleksii, I work as a Principal Engineer and have been working with Oracle FMW since 2014, we have started to focus far more othe Cloud adoption journey.
 
-[✍️ I've just passed GCP exam and found that one and I am hoping to work towards AZ-400 DevOps Exam as well as learning a new language in Python and working with Terraform to work on great new Cloud solutions!
+✍️ I've just passed GCP exam and found that one and I am hoping to work towards AZ-400 DevOps Exam as well as learning a new language in Python and working with Terraform to work on great new Cloud solutions!
 
 Really looking forward to getting started with this journey and hope to meed some likeminded folk along the way! ]
 
-[I want to be at the end after 100 days]
+I want to be at the end after 100 days
 
-- [✍️ My twitter](https://twitter.com/zukko78)
-- [✍️ My LinkedIn](https://www.linkedin.com/in/oleksii-zatkhei-17b16b42/)
+- ✍️ My twitter(https://twitter.com/zukko78)
+- ✍️ My LinkedIn(https://www.linkedin.com/in/oleksii-zatkhei-17b16b42/)
 
 ## Stepping out the door
 
